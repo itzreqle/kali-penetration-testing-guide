@@ -11,7 +11,7 @@ This comprehensive guide offers step-by-step instructions for installing Kali Li
     - [Create a Bootable USB](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#create-a-bootable-usb)
     - [Install Kali Linux](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#install-kali-linux)
     - [Update and Upgrade](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#update-and-upgrade)
-2. [Penetration Testing Tools and Techniques](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#penetration-testing-tools-and-techniques)
+2. [Penetration Testing Tools and Techniques](https://github.com/itzreqle/kali-penetration-testing-guide/tree/main#penetration-testing-tools-and-techniques)
     - [1. Nmap - Network Mapper](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#1-nmap---network-mapper)
     - [2. Wireshark - Network Packet Analyzer](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#2-wireshark---network-packet-analyzer)
     - [3. Nikto - Web Server Scanner](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#3-nikto---web-server-scanner)
@@ -21,8 +21,8 @@ This comprehensive guide offers step-by-step instructions for installing Kali Li
     - [7. Burp Suite - Web Application Testing](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#7-burp-suite---web-application-testing)
     - [8. SQLMap - SQL Injection](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#8-sqlmap---sql-injection)
     - [9. Dirb - Directory Brute-Forcing](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#9-dirb---directory-brute-forcing)
-3. [Legal and Ethical Considerations](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#legal-and-ethical-considerations)
-4. [Disclaimer](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#disclaimer)
+3. [Legal and Ethical Considerations](https://github.com/itzreqle/kali-penetration-testing-guide/tree/main#legal-and-ethical-considerations)
+4. [Disclaimer](https://github.com/itzreqle/kali-penetration-testing-guide/tree/main#disclaimer)
 
 ## Installation
 
