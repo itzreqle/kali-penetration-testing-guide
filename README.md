@@ -6,7 +6,7 @@ This comprehensive guide offers step-by-step instructions for installing Kali Li
 
 ## Table of Contents
 
-1. [Installation](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#installation)
+1. [Installation](https://github.com/itzreqle/kali-penetration-testing-guide/tree/main#installation)
     - [Download Kali Linux](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#download-kali-linux)
     - [Create a Bootable USB](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#create-a-bootable-usb)
     - [Install Kali Linux](https://chat.openai.com/c/89a82732-6146-41ed-8b5c-ca9b8f0542bb#install-kali-linux)
